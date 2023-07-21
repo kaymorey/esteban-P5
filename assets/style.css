@@ -1,3 +1,48 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-Regular.woff2') format('woff2'),
+        url('fonts/Inter-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('fonts/Spectral-LightItalic.woff2') format('woff2'),
+        url('fonts/Spectral-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('fonts/Spectral-ExtraBoldItalic.woff2') format('woff2'),
+        url('fonts/Spectral-ExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('fonts/Spectral-Italic.woff2') format('woff2'),
+        url('fonts/Spectral-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('fonts/Spectral-ExtraBold.woff2') format('woff2'),
+        url('fonts/Spectral-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
 body {
 	max-width: 1920px;
 	margin: auto;
