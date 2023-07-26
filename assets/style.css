@@ -87,6 +87,10 @@ body {
 	width: 20px;
 }
 
+#header .carousel-item img {
+	aspect-ratio: 1300/601;
+}
+
 #about {
 	display: flex;
 	background-color: #F6D2B8;
@@ -114,7 +118,7 @@ body {
 
 .picture img {
 	width: 100%;
-
+	aspect-ratio: 460/457;
 }
 #about-me {
 	flex: 2
